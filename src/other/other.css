@@ -1,0 +1,27 @@
+.content {
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+}
+.card-input .ant-card-body {
+    max-width: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.show-color {
+  width: 120px;
+  height: 32px;
+  border-radius: 4px;
+  margin-right: 8px ;  
+}
+.effect-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px;
+}
+.indent {
+    text-indent: 1em;
+}

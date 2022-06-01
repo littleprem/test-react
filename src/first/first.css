@@ -1,0 +1,12 @@
+.content {
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+}
+.card-input {
+    max-width: 500px;
+    width: 100%;
+}
+.search-input {
+    margin-bottom: 16px
+}
